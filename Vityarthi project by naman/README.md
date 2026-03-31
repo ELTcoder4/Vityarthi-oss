@@ -149,8 +149,8 @@ Displays system-level information:
 
 ## 📚 Author
 
-**Sayujya Tiwari**
-Registration Number: 24BCE10032
+**Naman joshi**
+Registration Number: 24BCE11353
 Course: Open Source Software
 
 ---
